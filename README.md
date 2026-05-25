@@ -2,24 +2,24 @@
 
 ## 📌 Project Overview
 This project is a professional Excel-based data analysis dashboard built using the IMDB Movies dataset.  
-It analyzes movie trends including ratings, revenue, genres, and yearly performance.
+It analyzes movie trends such as ratings, revenue, genres, and yearly performance using Pivot Tables and interactive charts.
 
-The goal is to convert raw movie data into meaningful business insights using Excel Pivot Tables and dashboards.
+The goal of this project is to convert raw movie data into meaningful insights using Excel.
 
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
 ## 📂 Dataset Information
-- IMDB Movies Dataset (Excel format)
-- Fields include:
+- Dataset: IMDB Movies Dataset (CSV converted to Excel)
+- Contains:
   - Title
   - Genre
   - Director
-  - Year
+  - Year of Release
   - Rating
   - Votes
   - Revenue (Millions)
@@ -31,32 +31,51 @@ The goal is to convert raw movie data into meaningful business insights using Ex
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Slicers
-- Data Cleaning
+- Slicers (Interactive Filters)
+- Data Cleaning & Formatting
 
 ---
 
-## 📊 Key Analysis
-- Movie trends over years
-- Genre-wise rating analysis
-- Revenue trends over time
-- Top 10 highest rated movies
+## 📊 Key Analysis Performed
+
+### 🎬 Movie Trend Analysis
+- Number of movies released per year
+
+### ⭐ Rating Analysis
+- Average rating by genre
+- Identification of top-performing genres
+
+### 💰 Revenue Analysis
+- Revenue trends over years
+- Year-wise performance comparison
+
+### 🏆 Top Movies Analysis
+- Top 10 highest-rated movies
+- Comparison based on rating and votes
 
 ---
 
 ## 📈 Dashboard Features
 - Interactive Excel Dashboard
-- Slicers for filtering (Year, Genre)
-- KPI Cards (Total Movies, Avg Rating, Revenue)
-- Visual charts (Bar, Line, Column)
+- Slicers for filtering (Year, Genre, Director)
+- KPI Cards (Total Movies, Avg Rating, Total Revenue)
+- Dynamic Charts (Bar, Line, Column)
 
 ---
 
 ## 🔍 Key Insights
-- Movie production increased over time
+- Movie production has increased over time
 - Drama and Action are top-performing genres
 - Revenue varies significantly across years
-- High-rated movies attract more votes
+- High-rated movies attract more votes and popularity
+
+---
+
+## 🎯 Learning Outcomes
+- Data cleaning and preparation in Excel
+- Pivot table analysis and aggregation
+- Dashboard design and storytelling with data
+- Turning raw data into business insights
 
 ---
 
@@ -67,5 +86,5 @@ The goal is to convert raw movie data into meaningful business insights using Ex
 
 ---
 
-## 📌 Note
-This project is for learning and portfolio building purposes.
+## 📌 Project Purpose
+This project was created for learning and portfolio development to demonstrate data analysis and visualization skills using Excel.
